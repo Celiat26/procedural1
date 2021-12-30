@@ -1,0 +1,18 @@
+.image card {
+    height : 250px !important;
+    object-fit: cover !important;
+
+
+}
+
+
+.imageCarousel {
+    height : 500 px !important;
+    object-fit: cover !important;
+
+}
+
+.overlayPerso {
+    height: 700px !important;
+    object-fit: cover !important;
+}
